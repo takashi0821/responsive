@@ -1,0 +1,55 @@
+
+    .sub-sentence{
+        font-size:40px;
+        letter-spacing:2px;
+        padding:20px 0;
+        margin-bottom:0;
+    }
+    .sub-contents{
+        width:100%;
+    }
+
+    .content{
+        width:100%;
+        height:20px;
+        margin-top:10px;
+    }
+
+    .btn{
+        width:100%;
+        height:80px;
+        border-radius:0;     
+    }
+
+    footer{
+        height:120px;
+    }
+
+    .name{
+        padding-left:60px;
+        font-size:36px;
+    }
+
+    .facebook{
+        color:white;
+        font-size:60px;
+    }
+    
+    .twitter{
+        color:white;
+        font-size:60px;
+    }
+    
+    .line{
+        color:white;
+        font-size:60px;
+    }
+    
+    .google{
+        color:white;
+        font-size:60px;
+    }
+    
+
+
+}
